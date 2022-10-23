@@ -2,8 +2,6 @@
 
 <img src="https://img.shields.io/badge/kjptts2241@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white"/>
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjptts2241&show_icons=true&theme=radical)
 
 <!--
