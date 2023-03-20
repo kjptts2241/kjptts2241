@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/kjptts2241@gmail.com-FF0000?style=flat-square&logo=Gmail&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjptts2241&show_icons=true&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjptts2241&show_icons=true&theme=Gradient)
 
 <!--
 **kjptts2241/kjptts2241** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kjptts2241&show_icons=true&theme=default)
